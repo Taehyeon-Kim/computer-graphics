@@ -1,2 +1,2 @@
 # skku-computer-graphics
-skku computer graphics course with c++ language
+□ SKKU Computer Graphics Course with C++ Language
